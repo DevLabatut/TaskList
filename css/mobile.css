@@ -1,0 +1,17 @@
+@media (max-width: 941px) {
+  .box-all,
+  .box-container,
+  .box-tarefas,
+  .taskinput-addtaskbtn {
+    width: 100%;
+  }
+}
+@media (max-width: 500px) {
+  body {
+    padding: initial;
+  }
+  .box-container,
+  .box-tarefas {
+    border-radius: initial;
+  }
+}
